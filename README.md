@@ -242,20 +242,9 @@ npm run build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Documentation**: [docs.example.com](https://docs.example.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-proposal-evaluator/issues)
-- **Email**: support@example.com
-- **Discord**: [Join our community](https://discord.gg/example)
-
 ## 🙏 Acknowledgments
 
 - **OpenAI** for NLP research inspiration
 - **Academic Community** for evaluation methodology guidance
 - **React Team** for the excellent framework
 - **Tailwind CSS** for beautiful styling capabilities
-
----
-
-**Made with ❤️ for the academic and research community**
